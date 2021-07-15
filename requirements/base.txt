@@ -10,4 +10,4 @@ markdown==2.6.8
 django-filter==1.0.2
 openpyxl==2.4.7
 reportlab==3.4.0
-pyyaml==3.12
+pyyaml==5.4
